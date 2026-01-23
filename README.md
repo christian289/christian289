@@ -6,28 +6,24 @@
 
 A comprehensive **Claude Code extension pack** for WPF development.
 
-<table>
-<tr>
-<td>
+| | |
+|---|---|
+| 🎯 **49 Skills** | WPF patterns, MVVM, CustomControl, performance optimization |
+| 🤖 **11 Agents** | Specialized AI assistants for WPF development |
+| ⌨️ **2 Commands** | Quick control generation |
 
-**📦 What's Included**
-
-- 🎯 **49 Skills** - WPF patterns, MVVM, CustomControl, performance optimization
-- 🤖 **11 Agents** - Specialized AI assistants for WPF development
-- ⌨️ **2 Commands** - Quick control generation
-
-</td>
-<td>
-
-**⚡ Quick Install**
+<details>
+<summary><b>⚡ Quick Install</b></summary>
 
 ```bash
-claude mcp add-json wpf-dev-pack '{"type":"url","url":"https://raw.githubusercontent.com/anthropics/claude-code-packs/refs/heads/main/packs/url-pack/server.mjs","args":["https://raw.githubusercontent.com/christian289/dotnet-with-claudecode/main/wpf-dev-pack/marketplace.json"]}'
+claude mcp add-json wpf-dev-pack '{
+  "type": "url",
+  "url": "https://raw.githubusercontent.com/anthropics/claude-code-packs/refs/heads/main/packs/url-pack/server.mjs",
+  "args": ["https://raw.githubusercontent.com/christian289/dotnet-with-claudecode/main/wpf-dev-pack/marketplace.json"]
+}'
 ```
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -49,9 +45,3 @@ claude mcp add-json wpf-dev-pack '{"type":"url","url":"https://raw.githubusercon
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian289&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-## 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-christian289-181717?style=for-the-badge&logo=github)](https://github.com/christian289)
