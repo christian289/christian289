@@ -8,22 +8,19 @@ A comprehensive **Claude Code Plugin** for WPF development.
 
 | | |
 |---|---|
-| 🎯 **49 Skills** | WPF patterns, MVVM, CustomControl, performance optimization |
+| 🎯 **57 Skills** | WPF patterns, MVVM, CustomControl, performance optimization |
 | 🤖 **11 Agents** | Specialized AI assistants for WPF development |
-| ⌨️ **2 Commands** | Quick control generation |
+| ⌨️ **5 Commands** | Quick control & project generation |
 
 <details>
 <summary><b>⚡ Quick Install</b></summary>
 
 ```bash
-# Run in Claude Code CLI
-/plugin install github:christian289/dotnet-with-claudecode/wpf-dev-pack
-```
+# Step 1: Add the marketplace (one-time)
+/plugin marketplace add christian289/dotnet-with-claudecode
 
-Or clone locally:
-```bash
-git clone https://github.com/christian289/dotnet-with-claudecode.git
-claude --plugin-dir ./dotnet-with-claudecode/wpf-dev-pack
+# Step 2: Install the plugin
+/plugin install wpf-dev-pack@dotnet-claude-plugins
 ```
 
 </details>
@@ -33,7 +30,7 @@ claude --plugin-dir ./dotnet-with-claudecode/wpf-dev-pack
 ## 🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10.0+-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/Avalonia-8B44AC?style=for-the-badge&logoColor=white)
 
