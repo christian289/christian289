@@ -32,11 +32,9 @@ A comprehensive **Claude Code Plugin** for WPF development.
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET"/>
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="WPF"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/avalonia/avalonia-original.svg" height="40" alt="Avalonia"/>
 </p>
 
 ---
