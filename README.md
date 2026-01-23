@@ -4,7 +4,7 @@
 
 ### [wpf-dev-pack](https://github.com/christian289/dotnet-with-claudecode/tree/main/wpf-dev-pack)
 
-A comprehensive **Claude Code extension pack** for WPF development.
+A comprehensive **Claude Code Plugin** for WPF development.
 
 | | |
 |---|---|
@@ -16,11 +16,14 @@ A comprehensive **Claude Code extension pack** for WPF development.
 <summary><b>⚡ Quick Install</b></summary>
 
 ```bash
-claude mcp add-json wpf-dev-pack '{
-  "type": "url",
-  "url": "https://raw.githubusercontent.com/anthropics/claude-code-packs/refs/heads/main/packs/url-pack/server.mjs",
-  "args": ["https://raw.githubusercontent.com/christian289/dotnet-with-claudecode/main/wpf-dev-pack/marketplace.json"]
-}'
+# Run in Claude Code CLI
+/plugin install github:christian289/dotnet-with-claudecode/wpf-dev-pack
+```
+
+Or clone locally:
+```bash
+git clone https://github.com/christian289/dotnet-with-claudecode.git
+claude --plugin-dir ./dotnet-with-claudecode/wpf-dev-pack
 ```
 
 </details>
