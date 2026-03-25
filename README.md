@@ -8,7 +8,7 @@
 
   | | |
   |---|---|
-  | 🎯 **76 Skills** | WPF patterns, MVVM, CustomControl, performance optimization |
+  | 🎯 **78 Skills** | WPF patterns, MVVM, CustomControl, performance optimization |
   | 🤖 **11 Agents** | Specialized AI assistants for WPF development |
   | 🔌 **1 MCP Server** | MicrosoftDocs integration |
   | 🔄 **Prism 9 Support** | 13 companion files for dual-framework development |
@@ -35,7 +35,9 @@
     &nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET"/>
     &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="WPF"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="Windows"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white" height="40" alt="WPF"/>
   </p>
 
   ---
