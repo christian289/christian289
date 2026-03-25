@@ -1,4 +1,4 @@
-  # Hi there, I'm christian289 👋
+# Hi there, I'm christian289 👋
 
   ## 🚀 Featured Project
 
@@ -10,7 +10,7 @@
   |---|---|
   | 🎯 **78 Skills** | WPF patterns, MVVM, CustomControl, performance optimization |
   | 🤖 **11 Agents** | Specialized AI assistants for WPF development |
-  | 🔌 **1 MCP Server** | MicrosoftDocs integration |
+  | 🔌 **2 MCP Servers** | MicrosoftDocs, HandMirrorMcp |
   | 🔄 **Prism 9 Support** | 13 companion files for dual-framework development |
 
   <details>
