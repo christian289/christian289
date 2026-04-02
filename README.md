@@ -42,12 +42,8 @@
 
   ---
 
-  ## 📊 GitHub Stats
+  ## 📊 GitHub Activity
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=christian289&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian289&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=christian289&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </p>
