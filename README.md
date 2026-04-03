@@ -8,8 +8,8 @@
 
   | | |
   |---|---|
-  | 🎯 **81 Skills** | WPF patterns, MVVM, CustomControl, performance optimization |
-  | 🤖 **9 Agents** | Specialized AI assistants for WPF development |
+  | 🎯 **82 Skills** | WPF patterns, MVVM, CustomControl, performance optimization |
+  | 🤖 **10 Agents** | Specialized AI assistants for WPF development |
   | 🔌 **1 MCP Server** | HandMirrorMcp |
   | 🔄 **Prism 9 Support** | 15 companion files for dual-framework development |
 
