@@ -8,7 +8,7 @@
 
   | | |
   |---|---|
-  | 🎯 **19 Skills** | WPF scaffolding & plugin ops; 50+ knowledge topics via MCP |
+  | 🎯 **28 Skills** | WPF scaffolding & plugin ops; 50+ knowledge topics via MCP |
   | 🤖 **10 Agents** | Specialized AI assistants for WPF development |
   | 🔌 **2 MCP Servers** | HandMirrorMcp, WpfDevPackMcp |
   | 🔄 **Prism 9 Support** | 15 companion files for dual-framework development |
